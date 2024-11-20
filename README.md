@@ -1,66 +1,99 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="100" alt="Laravel Logo"></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://github.com/Abdelfattah-Hayeb"><img src="https://img.shields.io/badge/Profile-Abdelfattah%20Hayeb-blue?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
+<a href="mailto:cvnm0061@gmail.com"><img src="https://img.shields.io/badge/Email-cvnm0061@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="https://www.linkedin.com/in/abdelfattah-hayeb-195914311"><img src="https://img.shields.io/badge/LinkedIn-Abdelfattah%20Hayeb-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# 🧑‍💻 Abdelfattah Hayeb  
+**`Développeur Full Stack | Passionné par la Technologie`**
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Développeur Full Stack avec expertise en **Laravel**, **ReactJS**, et **MySQL**. Je suis dédié à la création de solutions numériques modernes et efficaces. Mon approche se concentre sur l'apprentissage continu et la résolution de problèmes concrets grâce à des technologies innovantes.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## 🎓 **Parcours Académique**
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Développeur Full Stack**  
+  *ISTA Adarissa, Fès* (2022 - 2024)  
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- **Économie et Gestion**  
+  *Université Sidi Mohamed Ben Abdellah, Fès* (2021 - 2022)  
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **Baccalauréat Sciences Expérimentales**  
+  *Lycée Qualifiant Abdlekrim Daoudi, Fès* (2020 - 2021)  
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## 🛠️ **Compétences Techniques**
 
-### Premium Partners
+### **💻 Langages et Frameworks**  
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### **💾 Bases de Données**  
+<div>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
 
-## Contributing
+### **🛠 Outils**  
+<div>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+## 🏆 **Certifications**
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- **Python Essentials 1 & 2** *(Networking Academy CISCO)*  
+- **JavaScript Essentials 1 & 2** *(Networking Academy CISCO)*  
+- **Computer Hardware Basics** *(Networking Academy CISCO)*  
+- **Introduction to Cybersecurity** *(Networking Academy CISCO)*  
+- **Data Science & Analytics** *(HP)*  
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 📂 **Projets Récents**
 
-## License
+### **E-commerce Platform - Electro**  
+Une plateforme pour la vente en ligne de produits électroniques.  
+**Technologies :** Laravel, MySQL, HTML, CSS, JavaScript  
+**Lien :** *(à venir)*  
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### **Diagnostic Mécanique**  
+Système de réservation en ligne pour la réparation automobile.  
+**Technologies :** HTML, CSS, JavaScript, PHP  
+**Lien :** *(à venir)*  
+
+### **Modèle de Prévision d'Équipe de Football** *(FreeCodeCamp)*  
+Création d’un modèle de prévision utilisant des algorithmes de machine learning (régression logistique, KNN, SVM).  
+**Technologies :** Python, Scikit-learn  
+
+---
+
+## 📞 **Contact**
+
+- **📧 Email :** [cvnm0061@gmail.com](mailto:cvnm0061@gmail.com)  
+- **📞 Téléphone :** 0623349306  
+- **📍 Adresse :** 58, Hay Elfarah, Elmassira Fès  
+
+---
+
+## 🌟 **Centres d'Intérêt**
+
+- Programmation et nouvelles technologies  
+- Data Science et Machine Learning  
+- Sport et Activités Extérieures  
+
+---
