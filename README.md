@@ -1,9 +1,10 @@
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="100" alt="Laravel Logo"></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/Abdelfattah-Hayeb"><img src="https://img.shields.io/badge/Profile-Abdelfattah%20Hayeb-blue?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
-<a href="mailto:cvnm0061@gmail.com"><img src="https://img.shields.io/badge/Email-cvnm0061@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-<a href="https://www.linkedin.com/in/abdelfattah-hayeb-195914311"><img src="https://img.shields.io/badge/LinkedIn-Abdelfattah%20Hayeb-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
 ---
